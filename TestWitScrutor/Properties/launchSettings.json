@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "TestWitScrutor": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "commandLineArgs": "--env=dev",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
